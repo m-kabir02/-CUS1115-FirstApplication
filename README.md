@@ -1,5 +1,5 @@
 # -CUS1115-FirstApplication
-CUS 1115 Computer Programming Fundamentals I [JAVA]. First Java program.
+CUS 1115 Computer Programming Fundamentals I [JAVA]. System.out.println practice with strings. First Java program.
 
 System.out.println practice with strings
 
